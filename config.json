@@ -1,0 +1,24 @@
+{   
+    "general": {
+        "token": "ODIyODYzMTMyNDA1OTIzOTMx.YbyITA.KCMcFOn1twcYmlVwYgZP6UhOD4o",
+        "userid": 822863132405923931,
+        "channelid": 823460982428008492
+    },
+
+    "cooldowns": {
+        "huntcooldown": 8.3,
+        "ballcooldown": 0.3
+    },
+
+    "rarities": {
+        "Common": "pb",
+        "Uncommon": "pb",
+        "Rare": "gb",
+        "Super Rare": "ub",
+        "Alolan": "mb",
+        "Cheap_legendary": "prb",
+        "Legendary": "mb",
+        "Shiny": "mb",
+        "Full-odds": "prb"
+    }
+}
